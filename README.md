@@ -39,8 +39,7 @@ for landlords and property managers using the Claude API.
    and place `housing.csv` in a `/data` folder
 6. Create a `.env` file with your Claude API key:
    `ANTHROPIC_API_KEY=your-key-here`
-7. Run analysis: `python3 analyze.py`
-8. Generate AI report: `python3 report.py`
+7. Run the full pipeline: python3 main.py
 
 ## Sample Output
 
